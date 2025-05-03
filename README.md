@@ -47,7 +47,4 @@ Mitra Personal Assistant is a console-based virtual assistant developed in C++, 
 ### User Interface using ASCII ART:
 ![PNG Image](./robot.png)
 ---
-## Contributors:
-- **Kavya Singhal**
-- **Prashant Kumar Garg**
-- **Krish Mehra**
+
