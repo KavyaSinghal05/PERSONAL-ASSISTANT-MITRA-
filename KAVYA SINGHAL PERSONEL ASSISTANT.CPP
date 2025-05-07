@@ -1,7 +1,7 @@
 /*
 ----------------------------------------------------------------------------
                Project title   : Mitra (Personal assistant)
-               Made By         : Kavya Singhal
+               Made By         : Kavya Singhal,Prashnat kumar garg,Krish merhra
                Written in      : C++
                Started project : 15 February 2025
                Platform        : WINDOWS
